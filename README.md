@@ -15,3 +15,14 @@ The specs don't match the ones sold to me :-(
 
 ![a](Screenshot_2015-08-28-09-40-21.png)
 ![b](Screenshot_2015-08-28-09-40-46.png)
+
+# Storage
+
+![I](Screenshot_2015-08-28-11-07-43.png)
+![II](Screenshot_2015-08-28-11-08-13.png)
+![III](Screenshot_2015-08-28-11-09-27.png)
+![IV](Screenshot_2015-08-28-11-10-14.png)
+![V](Screenshot_2015-08-28-11-11-41.png)
+![VI](Screenshot_2015-08-28-11-11-51.png)
+![VII](Screenshot_2015-08-28-11-15-54.png)
+![VIII](Screenshot_2015-08-28-11-16-04.png)
