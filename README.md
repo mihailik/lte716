@@ -1,6 +1,6 @@
 # Screenshots for the device I have bought
 
-The specs don't match the ones sokd to me :-(
+The specs don't match the ones sold to me :-(
 
 ![1](Screenshot_2015-08-25-10-29-28.png)
 ![2](Screenshot_2015-08-25-10-29-40.png)
@@ -10,3 +10,8 @@ The specs don't match the ones sokd to me :-(
 ![6](Screenshot_2015-08-25-10-36-30.png)
 ![7](Screenshot_2015-08-25-10-36-43.png)
 ![8](Screenshot_2015-08-25-10-36-52.png)
+
+## Product page
+
+![a](Screenshot_2015-08-28-09-40-21.png)
+![b](Screenshot_2015-08-28-09-40-46.png)
